@@ -1,0 +1,6 @@
+Information: Forex Daily Prices (open, high, low, close)
+From Symbol: EUR
+To Symbol: USD
+Output Size: Compact
+Last Refreshed: 2024-12-06 21:55:00
+Time Zone: UTC

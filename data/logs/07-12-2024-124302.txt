@@ -1,0 +1,1 @@
+Information:Forex Daily Prices (open, high, low, close)From Symbol:EURTo Symbol:USDOutput Size:CompactLast Refreshed:2024-12-06 21:55:00Time Zone:UTC
